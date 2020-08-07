@@ -3,3 +3,7 @@
 
 # MAC organizatioon
 *.DS_Store
+
+# PPT
+*.ppt
+*.pptx
